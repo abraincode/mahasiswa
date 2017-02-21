@@ -10,9 +10,10 @@ class Mahasiswa {
   var $prodi;
   var $ipk;
 
-  function __construct()
+  function __construct($nim, $nama)
   {
-    
+    $this->nim = $nim;
+    $this->nama = $nama;
   }
 
 }
