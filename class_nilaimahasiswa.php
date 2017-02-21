@@ -11,5 +11,9 @@ class NilaiMahasiswa {
     $this->nilai = $nilai;
     $this->nim = $nim;
   }
+
+  function grade(){
+    
+  }
 }
  ?>
