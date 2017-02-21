@@ -4,6 +4,11 @@
  */
 
 class Mahasiswa {
+  var $nim;
+  var $nama;
+  var $thn_angkatan;
+  var $prodi;
+  var $ipk;
 
 }
 
