@@ -4,14 +4,16 @@
  */
 
 class Mahasiswa {
+  var $no;
   var $nim;
   var $nama;
   var $thn_angkatan;
   var $prodi;
   var $ipk;
 
-  function __construct($nim, $nama)
+  function __construct($no, $nim, $nama)
   {
+    $this->no = $no;
     $this->nim = $nim;
     $this->nama = $nama;
   }
