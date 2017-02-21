@@ -10,6 +10,11 @@ class Mahasiswa {
   var $prodi;
   var $ipk;
 
+  function __construct()
+  {
+    
+  }
+
 }
 
 ?>
