@@ -7,7 +7,9 @@ class NilaiMahasiswa {
 
   function __construct($matakuliah, $nilai, $nim)
   {
-    # code...
+    $this->matakuliah = $matakuliah;
+    $this->nilai = $nilai;
+    $this->nim = $nim;
   }
 }
  ?>
