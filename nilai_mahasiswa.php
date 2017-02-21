@@ -72,7 +72,52 @@
       </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
     </nav>
-    
+    <form class="form-horizontal">
+<fieldset>
+
+<!-- Form Name -->
+<legend>Form Nilai Ujian</legend>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="nim">NIM</label>
+  <div class="col-md-4">
+  <input id="nim" name="nim" type="text" placeholder="" class="form-control input-md">
+
+  </div>
+</div>
+
+<!-- Select Basic -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="matakuliah">Pilih MK</label>
+  <div class="col-md-4">
+    <select id="matakuliah" name="matakuliah" class="form-control">
+      <option value="1">Option one</option>
+      <option value="2">Option two</option>
+    </select>
+  </div>
+</div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="nilai">Nilai</label>
+  <div class="col-md-4">
+  <input id="nilai" name="nilai" type="text" placeholder="" class="form-control input-md">
+
+  </div>
+</div>
+
+<!-- Button -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="simpan"></label>
+  <div class="col-md-4">
+    <button id="simpan" name="simpan" class="btn btn-success">Simpan</button>
+  </div>
+</div>
+
+</fieldset>
+</form>
+
 
     <hr>
     <div class="">
