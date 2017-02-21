@@ -133,6 +133,10 @@ $mhs4->ipk=3.2;
           </tbody>
       </table>
 
+      <div class="">
+        <p><b>Lab Pemrograman Web Lanjutan</b><br>Dhimas Akbar Noor Baihaque<br>STT NF - 2017</p>
+      </div>
+
       <script type="text/javascript">
       $(document).ready( function () {
           $('#table_id').DataTable();
