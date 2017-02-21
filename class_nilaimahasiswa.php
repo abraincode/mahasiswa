@@ -13,6 +13,10 @@ class NilaiMahasiswa {
   }
 
   function grade(){
+
+  }
+
+  function hasil(){
     
   }
 }
