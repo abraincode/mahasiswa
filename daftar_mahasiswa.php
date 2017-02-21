@@ -133,7 +133,7 @@ $mhs4->ipk=3.2;
           </tbody>
       </table>
 
-      <div class="">
+      <div class="" style="padding-top:5%;">
         <p><b>Lab Pemrograman Web Lanjutan</b><br>Dhimas Akbar Noor Baihaque<br>STT NF - 2017</p>
       </div>
 
