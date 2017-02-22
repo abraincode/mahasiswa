@@ -2,9 +2,9 @@
 <html>
 <head>
     <title></title>
-    <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
-    <script type="text/javascript" src="jquery.min.js"></script>
-    <script type="text/javascript" src="bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="bootstrap/bootstrap.min.css">
+    <script type="text/javascript" src="jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="bootstrap/bootstrap.min.js"></script>
 </head>
 
 <body>
@@ -72,7 +72,8 @@
       </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
     </nav>
-    <form class="form-horizontal">
+
+    <form class="form-horizontal" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
 <fieldset>
 
 <!-- Form Name -->
@@ -83,7 +84,6 @@
   <label class="col-md-4 control-label" for="nim">NIM</label>
   <div class="col-md-4">
   <input id="nim" name="nim" type="text" placeholder="" class="form-control input-md">
-
   </div>
 </div>
 
