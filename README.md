@@ -1,4 +1,4 @@
-<p align="center"><a href="www.nurulfikri.ac.id" target="_blank"><img height="150"src="(https://cloud.githubusercontent.com/assets/13671268/23329120/a4239d30-fb63-11e6-8044-29e57e2ca743.jpg"></a></p>
+<p align="center"><a href="www.nurulfikri.ac.id" target="_blank"><img height="150"src="(https://cloud.githubusercontent.com/assets/13671268/23331104/4bf276ee-fb91-11e6-8d7c-172ce1186e59.png"></a></p>
 
 <div align="center">
 <h2>Technopreneur Campus</h2>
