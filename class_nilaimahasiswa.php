@@ -27,7 +27,8 @@ class NilaiMahasiswa {
 
   function hasil()
   {
-
+    if ($this->nilai < 56 ) return "Tidak Lulus";
+      elseif ($this->nilai >= 56 ) return "Lulus";
   }
 }
  ?>
