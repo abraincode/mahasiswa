@@ -1,4 +1,4 @@
-<p align="center"><a href="www.nurulfikri.ac.id" target="_blank"><img height="150"src="("https://raw.githubusercontent.com/dhimasanb/mahasiswa/master/logo.png"></a></p>
+<p align="center"><a href="https://github.com/abraincode" target="_blank"><img height="150"src="https://raw.githubusercontent.com/abraincode/abraincode.github.io/master/assets/logo.png"></a></p>
 
 <div align="center">
 <h2>Technopreneur Campus</h2>
