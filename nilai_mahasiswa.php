@@ -92,8 +92,8 @@
   <label class="col-md-4 control-label" for="matakuliah">Pilih MK</label>
   <div class="col-md-4">
     <select id="matakuliah" name="matakuliah" class="form-control">
-      <option value="1">Option one</option>
-      <option value="2">Option two</option>
+      <option value="Data Warehouse">Data Warehouse</option>
+      <option value="Pemrograman Web Lanjut">Pemrograman Web Lanjut</option>
     </select>
   </div>
 </div>
@@ -117,7 +117,19 @@
 
 </fieldset>
 </form>
+<hr>
 
+<?php
+require_once 'class_nilaimahasiswa.php'; //untuk menyertakan atau memasukan file/library untuk di gunakan
+
+$mahasiswa = new NilaiMahasiswa($_POST['nim'], $_POST['matakuliah'], $_POST['nilai']);
+echo "NIM :" .$nim = $_POST['nim'];
+echo "<br/>Mata Kuliah :" .$matakuliah = $_POST['matakuliah'];
+echo "<br/>Nilai :" .$nilai = $_POST['nilai'];
+echo "<br/>Hasil Ujian :" .$mahasiswa->grade();
+echo "<br/>Grade :" .$mahasiswa->hasil();
+
+ ?>
 
     <hr>
     <div class="">
