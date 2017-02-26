@@ -9,9 +9,23 @@
 
 Tugas Praktikum 1 Web Lanjutan Data Mahasiswa
 
+## Tampilan Aplikasi
+
+* Daftar Mahasiswa
+
+![alt text](https://cloud.githubusercontent.com/assets/13671268/23339108/b8e7b0a4-fc4d-11e6-91a4-49d064e95360.PNG "Daftar Mahasiswa")
+
+* Nilai Mahasiswa
+
+![alt text](https://cloud.githubusercontent.com/assets/13671268/23339107/b8c3d166-fc4d-11e6-91ab-cb1cc9aa7ffe.PNG "Nilai Mahasiswa")
+
+
 ## Apa yang dipelajari?
 
-1.
+* Membuat Konstruktor Class
+* Membuat Variabel, Fungsi & Objek
+* Implementasi Bootstrap, jQuery & DataTables
+
 
 ## Cara Download
 
@@ -19,7 +33,7 @@ Tugas Praktikum 1 Web Lanjutan Data Mahasiswa
 
 ![alt text](https://github.com/abraincode/abraincode.github.io/blob/master/img/clone.PNG "Klik Download")
 
-2.Kemudian Klik Download ZIP 
+2.Kemudian Klik Download ZIP
 
 ![alt text](https://github.com/abraincode/abraincode.github.io/blob/master/img/clone2.PNG "Download ZIP")
 
