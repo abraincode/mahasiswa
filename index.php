@@ -32,7 +32,7 @@
             <h1 class="cover-heading">Dhimas Ganteng</h1>
             <p class="lead">Katakan Dhimas Ganteng Banget Katakan Dhimas Ganteng Banget Katakan Dhimas Ganteng Banget Katakan Dhimas Ganteng Banget Katakan Dhimas Ganteng Banget.</p>
             <p class="lead">
-              <a href="facebook.com/dhimasanb" class="btn btn-lg btn-default">Yuk Kenalan sama Dhimas Ganteng</a>
+              <a href="https://www.instagram.com/dhimasanb/" class="btn btn-lg btn-default">Yuk Kenalan sama Dhimas Ganteng</a>
             </p>
           </div>
 
