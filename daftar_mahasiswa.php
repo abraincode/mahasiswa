@@ -2,10 +2,10 @@
 <html>
 <head>
     <title></title>
-    <link rel="stylesheet" type="text/css" href="bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="datatables/datatables.min.css">
     <script type="text/javascript" src="jquery/jquery.min.js"></script>
-    <script type="text/javascript" src="bootstrap/bootstrap.min.js"></script>
+    <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="datatables/datatables.min.js"></script>
 </head>
 
@@ -125,7 +125,6 @@
               <td><?php echo $mhs->thn_angkatan; ?></td>
               <td><?php echo $mhs->ipk; ?></td>
               <td><?php echo $mhs->predikat_ipk(); ?></td>
-
             </tr>
           <?php endforeach; ?>
         </tbody>
