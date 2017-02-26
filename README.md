@@ -10,14 +10,22 @@
 Tugas Praktikum 1 Web Lanjutan Data Mahasiswa
 
 ## Apa yang dipelajari?
+
 1.
 
 ## Cara Download
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+1.Klik Clone or Download yg ada di kanan atas
+
+![alt text](https://github.com/abraincode/abraincode.github.io/blob/master/img/clone.PNG "Klik Download")
+
+2.Kemudian Klik Download ZIP 
+
+![alt text](https://github.com/abraincode/abraincode.github.io/blob/master/img/clone2.PNG "Download ZIP")
+
 
 ## Kontributor
-* [Teman Hamba Allah](http://www.github.com/dhimasanb) - Temannya Hamba Allah.
+* [Teman Hamba Allah](http://www.github.com/isfaaghyth) - Temannya Hamba Allah.
 * [Hamba Allah](http://www.github.com/dhimasanb) - Bekerja sebagai Merbot di salah satu Mushollah daerah Selatan Jakarta.
 
 ## Lisensi
