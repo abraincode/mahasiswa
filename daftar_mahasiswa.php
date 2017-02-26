@@ -108,6 +108,7 @@
                 <th>Thn Angkatan</th>
                 <th>IPK</th>
                 <th>Predikat</th>
+                <th></th>
             </tr>
         </thead>
         <tbody>
@@ -125,6 +126,7 @@
               <td><?php echo $mhs->thn_angkatan; ?></td>
               <td><?php echo $mhs->ipk; ?></td>
               <td><?php echo $mhs->predikat_ipk(); ?></td>
+              <td><span class="glyphicon glyphicon-eye-open" aria-hidden="true" style="padding-right:15%; color:blue;"></span><span class="glyphicon glyphicon-pencil" aria-hidden="true" style="color:blue;"></span></td>
             </tr>
           <?php endforeach; ?>
         </tbody>
