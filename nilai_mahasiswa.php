@@ -117,19 +117,20 @@
 
 </fieldset>
 </form>
-<hr>
 
 <?php
 require_once 'class_nilaimahasiswa.php'; //untuk menyertakan atau memasukan file/library untuk di gunakan
 error_reporting(E_ALL & ~E_NOTICE);
 
 $mahasiswa = new NilaiMahasiswa($_POST['nim'], $_POST['matakuliah'], $_POST['nilai']);
-echo "NIM :" .$nim = $_POST['nim'];
-echo "<br/>Mata Kuliah :" .$matakuliah = $_POST['matakuliah'];
-echo "<br/>Nilai :" .$nilai = $_POST['nilai'];
-echo "<br/>Hasil Ujian :" .$mahasiswa->grade();
-echo "<br/>Grade :" .$mahasiswa->hasil();
-
+if(isset($_POST["simpan"])){
+  echo "<hr>";
+  echo "NIM :" .$nim = $_POST['nim'];
+  echo "<br/>Mata Kuliah :" .$matakuliah = $_POST['matakuliah'];
+  echo "<br/>Nilai :" .$nilai = $_POST['nilai'];
+  echo "<br/>Hasil Ujian :" .$mahasiswa->grade();
+  echo "<br/>Grade :" .$mahasiswa->hasil();
+}
  ?>
 
     <hr>
