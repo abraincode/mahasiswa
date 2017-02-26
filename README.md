@@ -5,9 +5,11 @@
 <h4>www.nurulfikri.ac.id</h4>
 </div>
 
+
 # Tugas Praktikum 1
 
 Tugas Praktikum 1 Web Lanjutan Data Mahasiswa
+
 
 ## Tampilan Aplikasi
 
@@ -15,9 +17,11 @@ Tugas Praktikum 1 Web Lanjutan Data Mahasiswa
 
 ![alt text](https://cloud.githubusercontent.com/assets/13671268/23339108/b8e7b0a4-fc4d-11e6-91a4-49d064e95360.PNG "Daftar Mahasiswa")
 
+
 * Nilai Mahasiswa
 
 ![alt text](https://cloud.githubusercontent.com/assets/13671268/23339107/b8c3d166-fc4d-11e6-91ab-cb1cc9aa7ffe.PNG "Nilai Mahasiswa")
+
 
 
 ## Apa yang dipelajari?
@@ -25,6 +29,7 @@ Tugas Praktikum 1 Web Lanjutan Data Mahasiswa
 * Membuat Konstruktor Class
 * Membuat Variabel, Fungsi & Objek
 * Implementasi Bootstrap, jQuery & DataTables
+
 
 
 ## Cara Download
@@ -38,13 +43,16 @@ Tugas Praktikum 1 Web Lanjutan Data Mahasiswa
 ![alt text](https://github.com/abraincode/abraincode.github.io/blob/master/img/clone2.PNG "Download ZIP")
 
 
+
 ## Kontributor
 * [Teman Hamba Allah](http://www.github.com/isfaaghyth) - Temannya Hamba Allah.
 * [Hamba Allah](http://www.github.com/dhimasanb) - Bekerja sebagai Merbot di salah satu Mushollah daerah Selatan Jakarta.
 
+
 ## Lisensi
 
 Proyek ini dibawah lisensi MIT - lihat [LICENSE.md](LICENSE.md) untuk lebih jelas.
+
 
 ## Terima Kasih
 
