@@ -129,8 +129,8 @@
           <?php endforeach; ?>
         </tbody>
     </table>
-
-    <div class="" style="padding-top:5%;">
+    <hr>
+    <div>
       <p><b>Lab Pemrograman Web Lanjutan</b><br>Dhimas Akbar Noor Baihaque<br>STT NF - 2017</p>
     </div>
 </div>
