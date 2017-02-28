@@ -23,6 +23,7 @@
                   <li class="active"><a href="/">Home</a></li>
                   <li><a href="daftar_mahasiswa.php">Daftar Mahasiswa</a></li>
                   <li><a href="nilai_mahasiswa.php">Nilai Mahasiswa</a></li>
+                  <li><a href="use_account.php">Akun Bank</a></li>
                 </ul>
               </nav>
             </div>
