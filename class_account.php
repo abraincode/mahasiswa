@@ -4,8 +4,7 @@
  *
  */
 class Account {
-    var $nomor;
-    var $saldo;
+    var $nomor, $saldo;
     static $counter = 0;
 
     function __construct($no, $saldo_awal)
@@ -22,13 +21,12 @@ class Account {
 
     function withdraw ($uang)
     {
-        $this->saldo = $this->saldo + $uang;
+        $this->saldo = $this->saldo - $uang;
     }
 
     function cetak()
     {
-        echo "Nomor Account" . $this->nomor;
-        echo "Saldonya" . $this->saldo;
+        echo "Nomor Account :" . $this->nomor . " Saldonya " . $this->saldo;
     }
 }
 ?>
