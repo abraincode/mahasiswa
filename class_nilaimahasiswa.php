@@ -14,21 +14,27 @@ class NilaiMahasiswa {
 
   function grade()
   {
-    if ($this->nilai < 35 ) return "E";
-    elseif ($this->nilai >= 36 && $this->nilai < 55)
-      return "D";
-    elseif ($this->nilai >= 56 && $this->nilai < 69)
-      return "C";
-    elseif ($this->nilai >= 70 && $this->nilai <= 84)
-      return "B";
-    elseif ($this->nilai >= 85 && $this->nilai <= 100)
-      return "A";
+   if ($_POST['nilai'] <= 35) {
+        return "E";
+      } elseif ($_POST['nilai'] >= 36 && $_POST['nilai'] <= 55) {
+        return "D";
+      } elseif ($_POST['nilai'] >= 56 && $_POST['nilai'] <= 69 ) {
+        return "C";
+      } elseif ($_POST['nilai'] >= 70 && $_POST['nilai'] <= 84  ){
+        return "B";
+       } elseif ($_POST['nilai'] >= 85 && $_POST['nilai'] <= 100 ) {
+        return "A";
+      }
+
   }
 
   function hasil()
   {
-    if ($this->nilai < 56 ) return "Tidak Lulus";
-      elseif ($this->nilai >= 56 ) return "Lulus";
+    if($_POST['nilai'] <= 56){
+        return "Tidak Lulus";
+    }elseif ($_POST['nilai'] >= 56) {
+        return "Lulus";
+    }
   }
 }
  ?>
