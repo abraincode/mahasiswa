@@ -17,13 +17,13 @@
 
           <div class="masthead clearfix">
             <div class="inner">
-              <h3 class="masthead-brand">Ganteng</h3>
+              <h3 class="masthead-brand"><a href="/">Ganteng</a></h3>
               <nav>
                 <ul class="nav masthead-nav">
-                  <li class="active"><a href="/">Home</a></li>
                   <li><a href="daftar_mahasiswa.php">Daftar Mahasiswa</a></li>
                   <li><a href="nilai_mahasiswa.php">Nilai Mahasiswa</a></li>
                   <li><a href="use_account.php">Akun Bank</a></li>
+                  <li><a href="transfer.php">Transfer</a></li>
                 </ul>
               </nav>
             </div>
