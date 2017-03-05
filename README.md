@@ -45,7 +45,7 @@ Tugas Praktikum 1 Web Lanjutan Data Mahasiswa
 
 
 ## Kontributor
-* [Teman Hamba Allah](http://www.github.com/isfaaghyth) - Temannya Hamba Allah.
+* Teman-teman Mahasiswa STT Nurul Fikri
 * [Hamba Allah](http://www.github.com/dhimasanb) - Bekerja sebagai Merbot di salah satu Mushollah daerah Selatan Jakarta.
 
 
