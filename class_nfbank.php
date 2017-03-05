@@ -13,9 +13,9 @@
             $ab2 = new AccountBank("020",4000,"Mutiara");
             $ab3 = new AccountBank("007",2000,"Habiebie");
             //Masukan ke Array
-            // $this->kumpulan_accountbank('010')=$ab1;
-            // $this->kumpulan_accountbank('020')=$ab2;
-            // $this->kumpulan_accountbank('007')=$ab3;
+            $this->kumpulan_accountbank['010']=$ab1;
+            $this->kumpulan_accountbank['020']=$ab2;
+            $this->kumpulan_accountbank['007']=$ab3;
         }
         function cariAccount($nomor_Acc){
             $obj = null;
