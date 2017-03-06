@@ -1,5 +1,5 @@
 <?php
-    require_once 'class_accountbank.php';
+    require_once '../bank/class_accountbank.php';
 
     class NFBank {
         private $kumpulan_accountbank = array();

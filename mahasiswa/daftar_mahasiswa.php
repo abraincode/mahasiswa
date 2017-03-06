@@ -1,8 +1,8 @@
 <?php
-include_once 'header.php';
+include_once '../layout/header.php';
 ?>
     <?php
-    require_once 'class_mahasiswa.php'; //untuk menyertakan atau memasukan file/library untuk di gunakan
+    require_once '../mahasiswa/class_mahasiswa.php'; //untuk menyertakan atau memasukan file/library untuk di gunakan
 
     $mhs1 = new Mahasiswa ("1", "02011", "Faiz Fikri");
     $mhs1->prodi = "TI";
@@ -59,7 +59,7 @@ include_once 'header.php';
         </tbody>
     </table>
     <?php
-    include_once 'footer.php';
+    include_once '../layout/footer.php';
      ?>
 </div>
 <script type="text/javascript">

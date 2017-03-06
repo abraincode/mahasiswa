@@ -1,6 +1,6 @@
     <?php
-    include_once 'header.php';
-    require_once 'class_account.php';
+    include_once '../layout/header.php';
+    require_once '../bank/class_account.php';
 
     $ac1 = new Account('001', 5000);
     $ac2 = new Account('002', 3000);
@@ -21,5 +21,5 @@
     echo "<br>";
     $ac2->cetak();
 
-    include_once 'footer.php';
+    include_once '../layout/footer.php';
      ?>

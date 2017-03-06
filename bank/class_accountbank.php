@@ -1,5 +1,5 @@
 <?php
-require_once 'class_account.php';
+require_once '../bank/class_account.php';
 /**
  *
  */

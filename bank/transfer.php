@@ -1,5 +1,5 @@
 <?php
-include_once 'header.php';
+include_once '../layout/header.php';
 ?>
 
 <form class="form-horizontal" method="post" action="transfer.php">
@@ -46,7 +46,7 @@ include_once 'header.php';
 </fieldset>
 </form>
 <?php
- require_once 'class_NFBank.php'; //untuk menyertakan atau memasukan file/library untuk di gunakan
+ require_once '../bank/class_NFBank.php'; //untuk menyertakan atau memasukan file/library untuk di gunakan
  error_reporting(E_ALL & ~E_NOTICE);
 
   $akun = new NFBank($_POST['account-asal'], $_POST['jumlah-transfer'], $_POST['noaccount-tujuan']);
@@ -73,5 +73,5 @@ include_once 'header.php';
 ?>
 
 <?php
-include_once 'footer.php';
+include_once '../layout/footer.php';
  ?>
