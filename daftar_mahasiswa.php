@@ -77,25 +77,20 @@
     <?php
     require_once 'class_mahasiswa.php'; //untuk menyertakan atau memasukan file/library untuk di gunakan
 
-    $mhs1 = new Mahasiswa ("1", "02011", "Faiz Fikri");
-    $mhs1->prodi = "TI";
-    $mhs1->thn_angkatan=2012;
-    $mhs1->ipk=3.8;
+      $mhs = new Mahasiswa('Muh Isfahani Ghiyath', '0110215046');
+      $mhs->thn_angkatan = "2015";
+      $mhs->prodi = "Teknik Informatika";
+      $mhs->ipk = 3.97;
 
-    $mhs2 = new Mahasiswa ("2", "02012", "Alissa Khairunnisa");
-    $mhs2->prodi = "TI";
-    $mhs2->thn_angkatan=2012;
-    $mhs2->ipk=3.9;
+      $mhs1 = new Mahasiswa('Alvino Gartner', '0110215003');
+      $mhs1->thn_angkatan = "2015";
+      $mhs1->prodi = "Teknik Informatika";
+      $mhs1->ipk = 3.5;
 
-    $mhs3 = new Mahasiswa ("3", "01011", "Rosalie Naurah");
-    $mhs3->prodi = "SI";
-    $mhs3->thn_angkatan=2010;
-    $mhs3->ipk=3.46;
-
-    $mhs4 = new Mahasiswa ("4", "01012", "Defgi Muhammad");
-    $mhs4->prodi = "SI";
-    $mhs4->thn_angkatan=2010;
-    $mhs4->ipk=3.2;
+      $mhs2 = new Mahasiswa('Muh Arif Hidayatullah', '0110215016');
+      $mhs2->thn_angkatan = "2015";
+      $mhs2->prodi = "Teknik Informatika";
+      $mhs2->ipk = 3.6;
     ?>
 
     <table id="table_id" class="display">
@@ -115,7 +110,7 @@
             <?php
               // buat array
               echo "<hr>";
-              $ar_mahasiswa = [$mhs1,$mhs2,$mhs3,$mhs4];
+              $ar_mahasiswa = [$mhs1,$mhs2];
               foreach($ar_mahasiswa as $mhs):
             ?>
             <tr>
@@ -133,7 +128,7 @@
     </table>
     <hr>
     <div>
-      <p><b>Lab Pemrograman Web Lanjutan</b><br>Dhimas Ganteng Banget<br>STT NF - 2017</p>
+      <p><b>Lab Pemrograman Web Lanjutan</b><br>Muh Isfahani Ghiyath<br>STT NF - 2017</p>
     </div>
 </div>
 </body>
