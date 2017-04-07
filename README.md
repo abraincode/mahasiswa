@@ -23,6 +23,10 @@ Tugas Praktikum 1 Web Lanjutan Data Mahasiswa
 ![alt text](https://cloud.githubusercontent.com/assets/13671268/23339107/b8c3d166-fc4d-11e6-91ab-cb1cc9aa7ffe.PNG "Nilai Mahasiswa")
 
 
+* Transfer
+
+![alt text](https://cloud.githubusercontent.com/assets/13671268/23596460/3978919c-025d-11e7-9ed0-eaa028c5abb1.PNG "Transfer")
+
 
 ## Apa yang dipelajari?
 
@@ -45,7 +49,7 @@ Tugas Praktikum 1 Web Lanjutan Data Mahasiswa
 
 
 ## Kontributor
-* [Teman Hamba Allah](http://www.github.com/isfaaghyth) - Temannya Hamba Allah.
+* Teman-teman Mahasiswa STT Nurul Fikri
 * [Hamba Allah](http://www.github.com/dhimasanb) - Bekerja sebagai Merbot di salah satu Mushollah daerah Selatan Jakarta.
 
 
